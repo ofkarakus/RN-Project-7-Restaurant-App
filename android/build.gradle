@@ -35,3 +35,16 @@ allprojects {
         maven { url 'https://www.jitpack.io' }
     }
 }
+
+ext {
+    // The following are only a few examples of the types of properties you can define.
+    compileSdkVersion = 29
+    targetSdkVersion = 29
+    buildToolsVersion = "29.0.2"
+    minSdkVersion = 16
+    // You can also use this to specify versions for dependencies. Having consistent
+    // versions between modules can avoid behavior conflicts.
+    supportLibVersion = "29.0.0"
+    playServicesVersion = "17.0.0" // or find latest version
+    androidMapsUtilsVersion = "2.0.4"
+}
