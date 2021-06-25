@@ -17,6 +17,7 @@
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 <!-- OVERVIEW -->
 
@@ -63,3 +64,10 @@ Note: In order to use Google Maps, need get API_KEY from [Google Cloud Platform]
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [React-Native Maps](https://github.com/react-native-maps/react-native-maps)
+
+## Contact
+
+<ul>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/omer-karakus/" rel="nofollow">@OmerKarakus</a></li>
+  <li>omerfarukkarakus01@gmail.com</li>
+</ul>
