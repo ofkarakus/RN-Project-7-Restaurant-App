@@ -1,15 +1,5 @@
 <h1 align="center">RN-Project-7-Restaurant-App-With-Google-Maps</h1>
 
-
-<div align="center">
-  <h3>
-    <a href="https://github.com/raymondaksu/Project-017-Restaurant-Search-App-With-GoogleMaps-RN_08.git">
-      Project Source
-    </a>
- 
-  </h3>
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
